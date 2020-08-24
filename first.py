@@ -1,1 +1,2 @@
 print("Välkommen!")
+print("Adjö!")
